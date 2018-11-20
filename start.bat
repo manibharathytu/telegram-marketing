@@ -1,0 +1,2 @@
+python telegClient.py
+pause
